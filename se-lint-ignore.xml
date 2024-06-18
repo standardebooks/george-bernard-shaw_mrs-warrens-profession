@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <se-lint-ignore>
+	<file path="preface.xhtml">
+		<ignore>
+			<code>t-064</code>
+			<reason>Capitalisation is correct considering dialect speling.</reason>
+		</ignore>
+	</file>
 	<file path="act-1.xhtml">
 		<ignore>
 			<code>t-005</code>
