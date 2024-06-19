@@ -11,9 +11,5 @@
 			<code>t-005</code>
 			<reason>No comma needed in quoted text</reason>
 		</ignore>
-		<ignore>
-			<code>t-041</code>
-			<reason>Parser confused by line of dialogue made up entirely of punctuation.</reason>
-		</ignore>
 	</file>
 </se-lint-ignore>
