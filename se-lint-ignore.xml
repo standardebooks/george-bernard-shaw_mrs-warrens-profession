@@ -6,10 +6,4 @@
 			<reason>Capitalisation is correct considering dialect speling.</reason>
 		</ignore>
 	</file>
-	<file path="act-1.xhtml">
-		<ignore>
-			<code>t-005</code>
-			<reason>No comma needed in quoted text</reason>
-		</ignore>
-	</file>
 </se-lint-ignore>
