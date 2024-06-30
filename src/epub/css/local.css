@@ -105,3 +105,10 @@ p span.i1{
 	padding-left: 2em;
 	text-indent: -1em;
 }
+
+/* Preface footer */
+[epub|type~="preface"] footer{
+	font-variant: small-caps;
+	margin-top: 1em;
+	text-align: right;
+}
