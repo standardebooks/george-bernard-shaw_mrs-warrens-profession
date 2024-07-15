@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/george-bernard-shaw/mrs-warrens-profession</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-07-15T16:59:35Z</dc:date>
+		<meta property="dcterms:modified">2024-07-15T16:59:35Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -44,8 +44,8 @@
 		<dc:description id="description">A young woman learns a secret about her mother’s past and must decide what it means for her future.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Vivie Warren is a well-educated young woman, with clear, dispassionate plans for her future life and career. Over the course of two days, those plans are upended as she discovers how her mother earned the fortune on which they both live.&lt;/p&gt;
-			&lt;p&gt;&lt;i&gt;&lt;abbr&gt;Mrs.&lt;/abbr&gt; Warren’s Profession&lt;/i&gt; was shocking to the audience for which &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt; wrote it in 1893; so much so that it could not be publicly performed until 1925, with the 1902 London premiere taking place in a private club for legal reasons. Its New York premiere, in 1905, was halted by the police and the cast arrested. The London press was outraged by the 1902 performance, and in response Shaw wrote a new preface, included in this edition, furiously attacking the hypocrisy of his critics who praised plays like &lt;i lang="fr"&gt;La Dame Aux Camélias&lt;/i&gt; that glamorised the lives of fashionable courtesans, but condemned his play’s attack on the sordid reality of Victorian prostitution and the poverty that drove women to it.&lt;/p&gt;
-			&lt;p&gt;Shaw’s delicate handling of the controversial subjects of prostitution and incest may seem tame or even prudish to a modern reader; &lt;abbr&gt;Mrs.&lt;/abbr&gt; Warren’s profession is never even named in the course of the play. But in other respects the play is strikingly modern. Vivie’s struggle to reconcile her ethical principles with the realities of the world around her is still relevant today, and the central relationship between &lt;abbr&gt;Mrs.&lt;/abbr&gt; Warren and her daughter is complex and nuanced as any modern psychological drama. In the end it is the strength of the characters, not the once scandalous subject matter, that makes &lt;i&gt;&lt;abbr&gt;Mrs.&lt;/abbr&gt; Warren’s Profession&lt;/i&gt; one of&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Mrs. Warren’s Profession&lt;/i&gt; was shocking to the audience for which &lt;a href="https://standardebooks.org/ebooks/george-bernard-shaw"&gt;George Bernard Shaw&lt;/a&gt; wrote it in 1893; so much so that it could not be publicly performed until 1925, with the 1902 London premiere taking place in a private club for legal reasons. Its New York premiere, in 1905, was halted by the police and the cast arrested. The London press was outraged by the 1902 performance, and in response Shaw wrote a new preface, included in this edition, furiously attacking the hypocrisy of his critics who praised plays like &lt;i lang="fr"&gt;La Dame Aux Camélias&lt;/i&gt; that glamorized the lives of fashionable courtesans, but condemned his play’s attack on the sordid reality of Victorian prostitution and the poverty that drove women to it.&lt;/p&gt;
+			&lt;p&gt;Shaw’s delicate handling of the controversial subjects of prostitution and incest may seem tame or even prudish to a modern reader; Mrs. Warren’s profession is never even named in the course of the play. But in other respects the play is strikingly modern. Vivie’s struggle to reconcile her ethical principles with the realities of the world around her is still relevant today, and the central relationship between Mrs. Warren and her daughter is complex and nuanced as any modern psychological drama. In the end it is the strength of the characters, not the once scandalous subject matter, that makes &lt;i&gt;Mrs. Warren’s Profession&lt;/i&gt; one of Shaw’s most enduring plays.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/1097</dc:source>
@@ -53,8 +53,8 @@
 		<dc:source>https://catalog.hathitrust.org/Record/006061700</dc:source>
 		<!-- source for preface text -->
 		<dc:source>https://catalog.hathitrust.org/Record/001378171</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">35659</meta>
+		<meta property="se:reading-ease.flesch">74.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mrs._Warren%27s_Profession</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_mrs-warrens-profession</meta>
 		<dc:creator id="author">George Bernard Shaw</dc:creator>
@@ -84,6 +84,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Weijia Cheng</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cheng, Weijia</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://weijiarhymeswith.asia</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
