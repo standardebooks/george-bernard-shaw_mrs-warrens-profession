@@ -54,7 +54,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/006061700</dc:source>
 		<!-- source for preface text -->
 		<dc:source>https://catalog.hathitrust.org/Record/001378171</dc:source>
-		<meta property="se:word-count">35659</meta>
+		<meta property="se:word-count">35671</meta>
 		<meta property="se:reading-ease.flesch">74.9</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mrs._Warren%27s_Profession</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/george-bernard-shaw_mrs-warrens-profession</meta>
