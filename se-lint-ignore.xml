@@ -2,6 +2,7 @@
 <se-lint-ignore>
 	<file path="preface.xhtml">
 		<ignore code="t-064">
+			<line>33</line>
 			<reason>Capitalisation is correct considering dialect speling.</reason>
 		</ignore>
 	</file>
